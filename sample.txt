@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 this is a simple file
 this is a change in main branch
+=======
+this is a simple file:
+
+
+
+>>>>>>> branch1
